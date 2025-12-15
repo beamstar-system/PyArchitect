@@ -1,0 +1,5 @@
+{
+  "name": "PyArchitect AI",
+  "description": "An AI-powered Python codebase generator that creates structured, production-ready Python projects based on your descriptions.",
+  "requestFramePermissions": []
+}
